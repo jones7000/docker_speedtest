@@ -7,12 +7,12 @@ import mysql.connector
 interval = 15*60
 
 # database host:
-host = "server_laptop"
+host = "server"
 
 # database
-sqlHost = "192.168.1.199"
+sqlHost = "10.0.0.1"
 sqlUser = "user"
-sqlPass = "jonas123"
+sqlPass = "pass"
 sqlPort = "6033"
 
 
